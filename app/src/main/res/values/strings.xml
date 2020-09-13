@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">Organic Food</string>
+    <string name="explore">Explore</string>
+    <string name="super_pass">Super Pass</string>
+    <string name="single_entry">Single Entry</string>
+    <string name="mark">Marks</string>
+    <string name="home_work">Home Work</string>
+    <string name="track_location">Track Location</string>
+    <string name="profile">Profile</string>
+    <string name="events">Events</string>
+    <string name="activities">Activites</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="credits">Credits</string>
+    <string name="favourites">Favourites</string>
+    <string name="share_rate"><![CDATA[Share & Rate]]></string>
+    <string name="help">Help</string>
+    <string name="gym">Gym</string>
+    <string name="grid_menu_title">Category</string>
+
+    <string name="tc_apply">Terms &amp; Conditions Apply*</string>
+    <string name="knowMore">Know More</string>
+    <string name="unlimited_access_title">Get Unlimited Access with a Super Pass</string>
+    <string name="get_pass">Get Pass</string>
+    <string name="super_pass_desc">FOR ALL HEALTH AND FITNESS</string>
+    <string name="super_pass_long_desc">Unlimited Access across Fitness Freak network of 5000+ fitness studios, gyms, yoga centers and dance studios across Tamil Nadu</string>
+    <string name="super_pass_desc_title">Unlimited Access</string>
+    <string name="super_pass_desc_title2">Limited Access</string>
+    <string name="super_pass_long_desc2">Extra 20% OFF On Lowest Prices + Handpicked Healthy Food Hamper Worth INR 2500</string>
+    <string name="profile_title">Profile</string>
+
+
+    <string name="action_sign_in_short">Register</string>
+    <string name="email">Email</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="change_email">Change Email</string>
+    <string name="change_password">Change Password</string>
+    <string name="send_password_reset_email">Send Password reset email</string>
+    <string name="remove_user">Remove user</string>
+    <string name="new_pass">New Password</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">Do not have an Account? Register Now.</string>
+    <string name="btn_link_to_login">Already registered. Login Me!</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="btn_forgot_password">Forgot your password?</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="hint_new_email">New Email</string>
+    <string name="btn_change">Change</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_remove">Remove</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+    <string name="edit">Edit</string>
+    <string name="hint_confirm_password">Confrim Password</string>
+    <string name="logout">Logout</string>
+    <string name="hint_mobile">Mobile</string>
+
+    <!--    API KEY     -->
+    <string name="map_key" translatable="false">
+        AIzaSyDSZk5GteUM0-
+    </string>
+    <string name="error_email">Enter a Valid Email</string>
+    <string name="error_password">Enter a Valid Password</string>
+    <string name="error_name">Enter a Valid Name</string>
+    <string name="error_pass_not_match">Password Not Matching</string>
+    <string name="error_mobileNo">Enter a Valid Mobile Number</string>
+    <string name="btn_register">Register</string>
+    <string name="home">Home</string>
+    <string name="cart">Cart</string>
+    <string name="offers">Offers</string>
+    <string name="orders">Orders</string>
+    <string name="hint_address">Address</string>
+    <string name="nav_header_title">User Name</string>
+    <string name="nav_header_subtitle">Locatiom\n</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_gallery">Orders</string>
+    <string name="menu_slideshow">Offers</string>
+    <string name="action_settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello">Hello....</string>
+    <string name="hint_location">Location</string>
+    <string name="all_category">All Category</string>
+    <string name="search_text">Search for Products</string>
+    <string name="view_all">View All</string>
+    <string name="product_4_price">200</string>
+    <string name="product_4_name">Pomegranate</string>
+    <string name="product_3_price">250</string>
+    <string name="product_3_name">Mango</string>
+    <string name="product_2_price">100</string>
+    <string name="product_2_name">Orange</string>
+    <string name="product_1_price">150</string>
+    <string name="product_1_name">Apple</string>
+    <string name="fruits">Fruits</string>
+
+</resources>

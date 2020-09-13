@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single"
+        android:id="@+id/group1">
+
+        <item
+             android:id="@+id/Home"
+            android:icon="@drawable/houuse"
+            android:title="Home"/>
+
+    </group>
+
+    <group android:checkableBehavior="single"
+        android:id="@+id/group2">
+        <item
+            android:id="@+id/Categories"
+            android:icon="@drawable/category"
+            android:title="Shop by Categeory" />
+    </group>
+
+    <group android:checkableBehavior="single"
+        android:id="@+id/group3">
+        <item
+            android:id="@+id/Search"
+            android:icon="@drawable/search"
+            android:title="Search" />
+    </group>
+    <group android:checkableBehavior="single"
+        android:id="@+id/group4">
+        <item
+            android:id="@+id/Cart"
+            android:icon="@drawable/shopping_cart"
+            android:title="Cart" />
+    </group>
+    <group android:checkableBehavior="single"
+        android:id="@+id/group5">
+        <item
+            android:id="@+id/order"
+            android:icon="@drawable/order"
+            android:title="Orders" />
+    </group>
+    <group android:checkableBehavior="single"
+        android:id="@+id/group6">
+        <item
+            android:id="@+id/MyProfile"
+            android:icon="@drawable/user"
+            android:title="My Profile" />
+    </group>
+    <group android:checkableBehavior="single"
+        android:id="@+id/group7">
+        <item
+            android:id="@+id/Logut"
+            android:icon="@drawable/logout"
+            android:title="Logout" />
+    </group>
+</menu>
